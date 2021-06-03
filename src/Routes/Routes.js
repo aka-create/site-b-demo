@@ -10,8 +10,6 @@ import Vin from "../pages/vin";
 
 const Routes=()=> {
   return (
-    <BrowserRouter>
-      <div>
         <Switch>
           <Route path="/salutation" component={Content} />
           <Route path="/accueil" component={Accueil} />
@@ -20,8 +18,6 @@ const Routes=()=> {
           <Route path="/vin" component={Vin} />
           <Route exact path="/" component={Component} />
         </Switch>
-      </div>
-    </BrowserRouter>
   )
 }
 
