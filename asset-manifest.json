@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/site-b-demo/static/css/main.7937fca0.chunk.css",
+    "main.js": "/site-b-demo/static/js/main.0a24f531.chunk.js",
+    "main.js.map": "/site-b-demo/static/js/main.0a24f531.chunk.js.map",
+    "runtime-main.js": "/site-b-demo/static/js/runtime-main.08393c68.js",
+    "runtime-main.js.map": "/site-b-demo/static/js/runtime-main.08393c68.js.map",
+    "static/js/2.712ed1ea.chunk.js": "/site-b-demo/static/js/2.712ed1ea.chunk.js",
+    "static/js/2.712ed1ea.chunk.js.map": "/site-b-demo/static/js/2.712ed1ea.chunk.js.map",
+    "static/js/3.764fd464.chunk.js": "/site-b-demo/static/js/3.764fd464.chunk.js",
+    "static/js/3.764fd464.chunk.js.map": "/site-b-demo/static/js/3.764fd464.chunk.js.map",
+    "index.html": "/site-b-demo/index.html",
+    "static/css/main.7937fca0.chunk.css.map": "/site-b-demo/static/css/main.7937fca0.chunk.css.map",
+    "static/js/2.712ed1ea.chunk.js.LICENSE.txt": "/site-b-demo/static/js/2.712ed1ea.chunk.js.LICENSE.txt",
+    "static/media/cave1.641294f5.jpg": "/site-b-demo/static/media/cave1.641294f5.jpg",
+    "static/media/cave2.e34b8f35.jpg": "/site-b-demo/static/media/cave2.e34b8f35.jpg",
+    "static/media/cave3.9ceba19f.jpg": "/site-b-demo/static/media/cave3.9ceba19f.jpg",
+    "static/media/cave4.0443eaf4.jpg": "/site-b-demo/static/media/cave4.0443eaf4.jpg",
+    "static/media/cave5.edde6858.jpg": "/site-b-demo/static/media/cave5.edde6858.jpg",
+    "static/media/liqueur1.23813818.jpg": "/site-b-demo/static/media/liqueur1.23813818.jpg",
+    "static/media/liqueur11.6c1bdc17.jpg": "/site-b-demo/static/media/liqueur11.6c1bdc17.jpg",
+    "static/media/liqueur12.88ed1e4e.jpg": "/site-b-demo/static/media/liqueur12.88ed1e4e.jpg",
+    "static/media/liqueur2.0f8cad2d.jpg": "/site-b-demo/static/media/liqueur2.0f8cad2d.jpg",
+    "static/media/liqueur3.d2505452.png": "/site-b-demo/static/media/liqueur3.d2505452.png",
+    "static/media/liqueur4.05016e2a.jpg": "/site-b-demo/static/media/liqueur4.05016e2a.jpg",
+    "static/media/liqueur5.5a617c47.jpg": "/site-b-demo/static/media/liqueur5.5a617c47.jpg",
+    "static/media/liqueur6.059489d0.jpg": "/site-b-demo/static/media/liqueur6.059489d0.jpg",
+    "static/media/liqueur7.be764895.png": "/site-b-demo/static/media/liqueur7.be764895.png",
+    "static/media/liqueur9.f18a7d49.jpg": "/site-b-demo/static/media/liqueur9.f18a7d49.jpg",
+    "static/media/logo.6ce24c58.svg": "/site-b-demo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08393c68.js",
+    "static/js/2.712ed1ea.chunk.js",
+    "static/css/main.7937fca0.chunk.css",
+    "static/js/main.0a24f531.chunk.js"
+  ]
+}
