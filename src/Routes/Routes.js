@@ -9,7 +9,7 @@ import Vin from "../pages/vin";
 
 const Routes = () => {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <section>
         <Switch>
           <Route path="/salutation" component={Content} />
@@ -20,7 +20,7 @@ const Routes = () => {
           <Route exact path="/" component={Accueil} />
         </Switch>
       </section>
-    </BrowserRouter>
+    </HashRouter>
   );
 };
 
