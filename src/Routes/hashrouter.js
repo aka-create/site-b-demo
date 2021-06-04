@@ -7,10 +7,10 @@ import Contacts from "../pages/contacts";
 import Liqueur from "../pages/liqueur";
 import Vin from "../pages/vin";
 
-const Routes = () => {
+const HashRouters = () => {
   return (
-    <BrowserRouter>
-      <section>
+    <HashRouter>
+      <div>
         <Switch>
           <Route path="/salutation" component={Content} />
           <Route path="/accueil" component={Accueil} />
@@ -19,9 +19,9 @@ const Routes = () => {
           <Route path="/vin" component={Vin} />
           <Route exact path="/" component={Accueil} />
         </Switch>
-      </section>
-    </BrowserRouter>
+      </div>
+    </HashRouter>
   );
 };
 
-export default Routes;
+export default HashRouters;
