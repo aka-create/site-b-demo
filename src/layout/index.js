@@ -1,21 +1,19 @@
 import React from "react";
 import Header from "./header/index";
 import Footer from "./footer/index";
-import {BrowserRouter} from "react-router-dom";
+import { HashRouter, BrowserRouter,Route } from 'react-router-dom';
 import Routes from "../Routes/Routes";
 
 const Layout = () => {
   return(
   <>
-    <BrowserRouter>
-      <div>
+    <HashRouter>
         <Header />
-        <main style={{minHeight:464}}>
+        <main style={{minHeight:464,overfleowX:"hidden"}}>
           <Routes />
         </main>
         <Footer />
-      </div>
-    </BrowserRouter>
+    </HashRouter>
   </>
   );
 };
